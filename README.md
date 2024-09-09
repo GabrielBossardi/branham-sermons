@@ -20,7 +20,7 @@ The project consists of the following main components:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone git@github.com:GabrielBossardi/branham-sermons.git
 cd branham-sermons
 ```
 
